@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">signLanguageApp</string>
+    <string name="desc">description</string>
+    <string name="title_activity_info">info</string>
+    <string name="title_activity_aboutus">aboutus</string>
+    <string name="title_activity_about_us">aboutUs</string>
+    <string name="title_activity_main">main_activity</string>
+    <string name="title_activity_camera_screen">CameraScreen</string>
+</resources>
